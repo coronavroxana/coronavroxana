@@ -18,8 +18,9 @@ Biotechnology engineer with 5 years at P&G Product Supply, now applying machine 
 
 ## Background
 
+- TripleTen Data Science Bootcamp
 - MIT Applied Data Science Program
-- TripleTen Data Science Bootcamp (2026)
+- Biotechnology Engineering — ITESM
 - P&G Product Supply — GMP manufacturing, SPC, GHS compliance
 - Querétaro, México · Also open to remote & CDMX
 

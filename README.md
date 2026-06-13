@@ -21,6 +21,7 @@ Biotechnology engineer with 5 years at P&G Product Supply, now applying machine 
 - MIT Applied Data Science Program
 - TripleTen Data Science Bootcamp (2026)
 - P&G Product Supply — GMP manufacturing, SPC, GHS compliance
-- Querétaro, México · Open to remote
+- Querétaro, México · Also open to remote & CDMX
 
 📩 coronav.roxana@gmail.com
+🔗https://coronavroxana.github.io/

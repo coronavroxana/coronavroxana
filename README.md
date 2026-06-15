@@ -14,7 +14,7 @@ Biotechnology engineer with 5 years at P&G Product Supply, now applying machine 
 |---|---|---|
 | [Gold Recovery Optimization](https://github.com/coronavroxana/gold-recovery-zyfra) | Industrial ML | sMAPE 11.17% |
 | [Customer Churn Prediction](https://github.com/coronavroxana/telecom-churn) | Behavioral Analytics | AUC-ROC 78.4% |
-| [Market Basket Analysis](https://github.com/coronavroxana/instacart-analysis) | Consumer Insights | 3M+ orders |
+| [Market Basket Analysis](https://github.com/coronavroxana/analisis_instacart) | Consumer Insights | 3M+ orders |
 
 ## Background
 
